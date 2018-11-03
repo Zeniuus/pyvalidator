@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+
+# Coverage
+.coverage
+
+# IDE
+.idea/
+
+# Python cache
+__pycache__/
+
+# Configuration files
+*.ini
+
+# Log files
+*.log
+
+# Distribution & packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Test & coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.mypy-cache/
+.pytest_cache/
+
+# virtualenvs
+venv*/
+.python-version
